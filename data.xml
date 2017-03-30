@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root> 
+<node index="1223545">
+<name>onton</name>
+<birth>1932-5-8</birth>
+<citizenship_number>1223545</citizenship_number>
+<address>sid sdjf fjdjf</address>
+<phone>233466434</phone>
+<initial_balance>105</initial_balance>
+<account_type>1</account_type>
+</node>
+
+<node index="1223546">
+<name>cnton</name>
+<birth>1932-5-8</birth>
+<citizenship_number>1223546</citizenship_number>
+<address>sid sdjf fjdjf</address>
+<phone>233466434</phone>
+<initial_balance>45</initial_balance>
+<account_type>2</account_type>
+</node>
+
+<node index="1223547">
+<name>gnton</name>
+<birth>1932-5-8</birth>
+<citizenship_number>1223547</citizenship_number>
+<address>sid sdjf fjdjf</address>
+<phone>233466434</phone>
+<initial_balance>45</initial_balance>
+<account_type>1</account_type>
+</node>
+
+</root>
